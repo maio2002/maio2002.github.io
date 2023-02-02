@@ -1,1 +1,2 @@
-# Uplimity Discord: https://www.discord.gg/r2fbxFx9HF
+# Uplimity Discord: 
+# <a href="url">https://www.discord.gg/r2fbxFx9HF</a>
