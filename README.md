@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>HTML5 Canvas Tag</title>
 </head>
 
 <body>
-<canvas id = "newCanvas" width = "500" height = "300" style = "border:1px solid #000000;"></canvas>
+<canvas id = "newCanvas" width = "100%" height = "40%" style = "border:1px solid #000000;"></canvas>
 <script>
 var c = document.getElementById('newCanvas');
 var ctx = c.getContext('2d');
